@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Vlad (@techinz)
+# Hi there 👋 I'm code4world (@luckygroup)
 
 Full-stack developer specializing in Python, Node.js, and DevOps. Building web systems, automation tools, interactive 3D websites, and practical solutions for diverse technical challenges.
 
@@ -11,6 +11,7 @@ Full-stack developer specializing in Python, Node.js, and DevOps. Building web s
 - 🚀 Performance optimization
 - 🔐 Security-focused development
 - 🧩 Clean architecture
+-EC
 
 ## 💻 Skills
 <p align="left">
@@ -32,5 +33,5 @@ Full-stack developer specializing in Python, Node.js, and DevOps. Building web s
 - Audio processing & music manipulation in Python
 
 ## 📫 Connect with me
-[![Email](https://img.shields.io/badge/Email-contact@techinz.dev-red)](mailto:contact@techinz.dev)
-[![Telegram](https://img.shields.io/badge/Telegram-@playweb3-0088cc)](https://t.me/playweb3)
+[![Email](https://img.shields.io/badge/Email-contact@techinz.dev-red)](mailto:michizoeharuki@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@playweb3-0088cc)](https://t.me/code4me)
