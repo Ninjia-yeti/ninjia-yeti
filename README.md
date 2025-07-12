@@ -2,7 +2,7 @@
 
 Full-stack developer specializing in Python, Node.js, and DevOps. Building web systems, automation tools, interactive 3D websites, and practical solutions for diverse technical challenges.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-techinz.dev-blue)](https://harukidev777.dev)
+[![Portfolio](https://img.shields.io/badge/code4me.com-blue)](https://harukidev777.dev)
 
 ## 🔧 Technical Expertise
 - 🤖 Automation & web parsing
