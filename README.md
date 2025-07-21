@@ -1,6 +1,6 @@
-"DevHikari7"
-# Hi there 👋 I'm code4world (@luckygroup)
-"DevHikari7"
+
+# Hi there 👋 I'm code4me (@luckygroup)
+
 Full-stack developer specializing in Python, Node.js, and DevOps. Building web systems, automation tools, interactive 3D websites, and practical solutions for diverse technical challenges.
 
 [![Portfolio](https://img.shields.io/badge/code4me.com-blue)](https://harukidev777.dev)
@@ -35,4 +35,4 @@ Full-stack developer specializing in Python, Node.js, and DevOps. Building web s
 
 ## 📫 Connect with me
 [![Email](https://img.shields.io/badge/Email-contact@techinz.dev-red)](mailto:michizoeharuki@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@playweb3-0088cc)](https://t.me/code4me)
+[![Telegram](https://img.shields.io/badge/Telegram-@playweb3-0088cc)]
